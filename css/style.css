@@ -65,7 +65,7 @@ html, body {
     margin: auto;
     text-decoration:none;
     transition: 0.2s;
-
+    color: black;
  }
 
  header .nav-list li a:hover{
@@ -929,10 +929,6 @@ footer .content-footer .link-footer .subJudul-link {
 
  /* RESPONSIVE DEVICE  768 */
 @media screen and (max-width: 768px) {
-
-    header.navbar-header{
-        margin: 50px 0;
-    }
 
     header .nav-list{
         position : absolute;
